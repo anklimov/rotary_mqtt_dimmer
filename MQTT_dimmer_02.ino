@@ -3,7 +3,7 @@
 #include <phi_interfaces.h>  
 
 const char *ssid =  "Smartbox";    // cannot be longer than 32 characters!
-const char *pass =  "topsecret";   //
+const char *pass =  "topsecret ";   //
 
 
 // Update these with values suitable for your network.
